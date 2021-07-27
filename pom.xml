@@ -34,8 +34,8 @@
         <artifactId>jetty-maven-plugin</artifactId>
         <version>8.1.5.v20120716</version>
 		<configuration>
-              <scanIntervalSeconds>0</scanIntervalSeconds>
-        </configuration>
+                   <scanIntervalSeconds>0</scanIntervalSeconds>
+                </configuration>
       </plugin>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
@@ -53,11 +53,11 @@
 	    <name>releases</name>
         <url>http://34.132.223.172:8081/repository/maven-releases/</url>
       </repository>
-     <snapshotRepository>
+      <snapshotRepository>
         <id>deployment</id>
 	    <name>snapshots</name>
         <url>http://34.132.223.172:8081/repository/maven-snapshots/</url>
-     </snapshotRepository>
+      </snapshotRepository>
     </distributionManagement>
  </project>
 
