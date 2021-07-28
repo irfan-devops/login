@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.irfan-devops</groupId>
   <artifactId>ikram</artifactId>
-  <version>2-SNAP</version>
+  <version>3-SNAP</version>
   <packaging>war</packaging>
   <name>Web Application</name>
   <description>Java Webapp</description>
@@ -55,7 +55,7 @@
       </repository>
      <snapshotRepository>
         <id>deployment</id>
-	    <name>snapshot</name>
+	    <name>snapshots</name>
         <url>http://34.132.179.67:8081/repository/maven-snapshots/</url>
      </snapshotRepository>
     </distributionManagement>
