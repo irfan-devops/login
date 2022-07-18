@@ -3,7 +3,7 @@
   <modelVersion>2.0.0</modelVersion>
   <groupId>com.irfan-devops</groupId>
   <artifactId>ikram</artifactId>
-  <version>2-SNAP</version>
+  <version>5-SNAP</version>
   <packaging>war</packaging>
   <name>Web Application</name>
   <description>Java Webapp</description>
