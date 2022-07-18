@@ -1,9 +1,9 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <modelVersion>4.0.0</modelVersion>
+  <modelVersion>2.0.0</modelVersion>
   <groupId>com.irfan-devops</groupId>
   <artifactId>ikram</artifactId>
-  <version>4-SNAP</version>
+  <version>2-SNAP</version>
   <packaging>war</packaging>
   <name>Web Application</name>
   <description>Java Webapp</description>
