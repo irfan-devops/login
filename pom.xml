@@ -53,10 +53,5 @@
 	    <name>Releases</name>
         <url>http://35.247.212.152:8081/repository/maven-releases/</url>
       </repository>
-     <snapshotRepository>
-        <id>deployment</id>
-	    <name>snapshots</name>
-        <url>http://35.247.212.152:8081/repository/maven-snapshots/</url>
-     </snapshotRepository>
     </distributionManagement>
  </project>
